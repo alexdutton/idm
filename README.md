@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/alexsdutton/idm.png?label=ready&title=Ready)](https://waffle.io/alexsdutton/idm?utm_source=badge)
 # IdM
 
 This is a collection of web applications and APIs that together form a proof of
