@@ -24,11 +24,9 @@ Everything is written (so far) using Python and Django, reusing existing
 components wherever possible. Each idm-\* component should be minimal and
 concise.
 
-## Coverage sunbursts
+## Test coverage sunbursts
 
-[![codecov](https://codecov.io/gh/alexsdutton/idm-core/branch/master/graphs/sunburst.svg)](https://codecov.io/gh/alexsdutton/idm-core)
-[![codecov](https://codecov.io/gh/alexsdutton/idm-auth/branch/master/graphs/sunburst.svg)](https://codecov.io/gh/alexsdutton/idm-auth)
-[![codecov](https://codecov.io/gh/alexsdutton/idm-card/branch/master/graphs/sunburst.svg)](https://codecov.io/gh/alexsdutton/idm-card)
-[![codecov](https://codecov.io/gh/alexsdutton/idm-broker/branch/master/graphs/sunburst.svg)](https://codecov.io/gh/alexsdutton/idm-broker)
-[![codecov](https://codecov.io/gh/alexsdutton/idm-brand/branch/master/graphs/sunburst.svg)](https://codecov.io/gh/alexsdutton/idm-brand)
-[![codecov](https://codecov.io/gh/alexsdutton/idm-integration/branch/master/graphs/sunburst.svg)](https://codecov.io/gh/alexsdutton/idm-integration)
+[![codecov for idm-core](https://codecov.io/gh/alexsdutton/idm-core/branch/master/graphs/sunburst.svg)](https://codecov.io/gh/alexsdutton/idm-core)
+[![codecov for idm-auth](https://codecov.io/gh/alexsdutton/idm-auth/branch/master/graphs/sunburst.svg)](https://codecov.io/gh/alexsdutton/idm-auth)
+[![codecov for idm-card](https://codecov.io/gh/alexsdutton/idm-card/branch/master/graphs/sunburst.svg)](https://codecov.io/gh/alexsdutton/idm-card)
+[![codecov for idm-broker](https://codecov.io/gh/alexsdutton/idm-broker/branch/master/graphs/sunburst.svg)](https://codecov.io/gh/alexsdutton/idm-broker)
